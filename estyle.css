@@ -1,0 +1,6 @@
+.menu{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    background-color: rgb(235, 117, 141);
+    justify-content: space-between;
+}
